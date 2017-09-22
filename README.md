@@ -42,11 +42,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 1. Bush WS, **Chen G**, Torstenson ES and Ritchie MD: LD-Spline: LD-Spline: Mapping SNPs on genotyping platforms to genomic regions using patterns of linkage disequilibrium, BioData Mining, 2009, 2:2-7
 2. **Chen G**, Sullivan PF, Kosorok MR: Biclustering with heterogenous variance. Proceedings of the National Academy of Sciences, 2013, 110(30): 12253-12258. Code: HSSVD
 3. **Chen G**, Liu Y, Shen D, Kosorok MR: Composite large margin classifiers with latent subclasses. Statistical Analysis and Data Mining, 2016, 9(2): 75-88.
-4. **Chen G**, Zeng D, Kosorok MR: Personalized dose finding using outcome weighted learning (with discussion). {\em Journal of the American Statistical Association, Theory and Methods}, 2016, 111(516): 1509--1521.
+4. **Chen G**, Zeng D, Kosorok MR: Personalized dose finding using outcome weighted learning (with discussion). Journal of the American Statistical Association, Theory and Methods}, 2016, 111(516): 1509--1521.
  - **Chen G**, Zeng D, Kosorok MR: Rejoinder "Personalized dose finding using outcome weighted learning". Journal of the American Statistical Association, Theory and Methods, 2016, 111(516): 1543--1547.
 5. Tang ZZ^, **Chen G**^, Alekseyenko A: Hypothesis Testing for Microbiome Profile. (^ for equal contribution and corresponding authors) Bionformatics, 2016, 32(17): 2618-2625.
-6. Zhu R, Zhao YQ, **Chen G**, Ma S, Zhao H: Greedy Tree Learning of Optimal Personalized Treatment Rules. Biometrics, 2017, in press.
-7. Tang ZZ, **Chen G**, Alekseyenko A, Li H: A general framework for association analysis of microbial community on a taxonomic tree. Bionformatics, 2017, in press.
+6. Zhu R, Zhao YQ, **Chen G**, Ma S, Zhao H: Greedy Tree Learning of Optimal Personalized Treatment Rules. Biometrics, 2017 73(2), 391--400.
+7. Tang ZZ, **Chen G**, Alekseyenko A, Li H: A general framework for association analysis of microbial community on a taxonomic tree. Bionformatics, 2017, 33(9): 1278--1285
 
 #### Collaborative
 1. Bloom RJ, Kahler AK, Collins AL, **Chen G**, Cannon TD, Hultman C, Sullivan PF: Comprehensive analysis of copy number variation in monozygotic twins discordant for bipolar disorder or schizophrenia. Schizophrenia Research, 2013, 146(1-3):289-290.
