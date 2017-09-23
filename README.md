@@ -30,15 +30,15 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 
 ### Publications
-
+$$^{\dag}$$ for co-first authors. $$^{\S}$$ for co-corresponding authors.
 #### Methodology
 1. Bush WS, **Chen G**, Torstenson ES and Ritchie MD: LD-Spline: LD-Spline: Mapping SNPs on genotyping platforms to genomic regions using patterns of linkage disequilibrium, _BioData Mining_, 2009, 2:2-7
 2. **Chen G**, Sullivan PF, Kosorok MR: Biclustering with heterogenous variance. _Proceedings of the National Academy of Sciences_, 2013, 110(30): 12253-12258. Code: [HSSVD](https://cran.r-project.org/web/packages/HSSVD/index.html)
 3. **Chen G**, Liu Y, Shen D, Kosorok MR: Composite large margin classifiers with latent subclasses. Statistical Analysis and Data Mining, 2016, 9(2): 75-88.
 4. **Chen G**, Zeng D, Kosorok MR: Personalized dose finding using outcome weighted learning (with discussion). _Journal of the American Statistical Association, Theory and Methods_, 2016, 111(516): 1509--1521.
  - **Chen G**, Zeng D, Kosorok MR: Rejoinder "Personalized dose finding using outcome weighted learning". _Journal of the American Statistical Association, Theory and Methods_, 2016, 111(516): 1543--1547.
-5. Tang ZZ^, **Chen G**^, Alekseyenko A: Hypothesis Testing for Microbiome Profile. (^ for equal contribution and corresponding authors) Bionformatics, 2016, 32(17): 2618-2625.
-6. Zhu R, Zhao YQ, **Chen G**, Ma S, Zhao H: Greedy Tree Learning of Optimal Personalized Treatment Rules. Biometrics, 2017 73(2), 391--400.
+5. Tang ZZ$$^{\dag}$$$$^{\S}$$, **Chen G**$$^{\dag}$$$$^{\S}$$, Alekseyenko A: Hypothesis Testing for Microbiome Profile. (^ for equal contribution and corresponding authors) Bionformatics, 2016, 32(17): 2618-2625.
+6. Zhu R$$^{\dag}$$, Zhao YQ$$^{\dag}$$, **Chen G**$$^{\dag}$$, Ma S, Zhao H: Greedy Tree Learning of Optimal Personalized Treatment Rules. Biometrics, 2017 73(2), 391--400.
 7. Tang ZZ, **Chen G**, Alekseyenko A, Li H: A general framework for association analysis of microbial community on a taxonomic tree. Bionformatics, 2017, 33(9): 1278--1285
 
 #### Collaborative
