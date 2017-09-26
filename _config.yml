@@ -4,3 +4,4 @@ author :
   email : gchen25@wisc.edu
 
 theme: jekyll-theme-cayman
+permalink : /:categories/:title 
