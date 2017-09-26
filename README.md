@@ -1,5 +1,5 @@
 ### Short Bio
-I am an Assistant Professor of Biostatistics and Medical Informatics in University of Wisconsin-Madison (email: gchen@biostat.wisc.edu; phone: 608-262-0765). I got my PhD from University of North Carolina at Chapel Hill in 2014 and before joining in UW, I was an Assistant Professor of Biostatistics in Vanderbilt University.
+I am an Assistant Professor of Biostatistics and Medical Informatics at University of Wisconsin-Madison (email: gchen@biostat.wisc.edu; phone: 608-262-0765). I got my PhD from University of North Carolina at Chapel Hill in 2014 and before joining UW, I was an Assistant Professor of Biostatistics at Vanderbilt University.
 
 ### Research Interest
 Develop statistical learning methods for clinical and biomedical research, with a particular emphasis on the discovery of complex patterns in heterogeneous, high-dimensional-omics data (genome, microbiome) and electronic health record data to advance precision medicine.
