@@ -1,5 +1,5 @@
 ### Short Bio
-I am an Assistant Professor of Biostatistics and Medical Informatics in University of Wisconsin-Madison (email: gchen @biostat. uw.edu; without space). I got my PhD from University of North Carolina at Chapel Hill in 2014 and before joining in UW, I was an Assistant Professor of Biostatistics in Vanderbilt University.
+I am an Assistant Professor of Biostatistics and Medical Informatics in University of Wisconsin-Madison (email: gchen@biostat.wisc.edu; phone: 608-262-0765). I got my PhD from University of North Carolina at Chapel Hill in 2014 and before joining in UW, I was an Assistant Professor of Biostatistics in Vanderbilt University.
 
 ### Research Interest
 Develop statistical learning methods for clinical and biomedical research, with a particular emphasis on the discovery of complex patterns in heterogeneous, high-dimensional-omics data (genome, microbiome) and electronic health record data to advance precision medicine.
@@ -17,6 +17,7 @@ Develop statistical learning methods for clinical and biomedical research, with 
  - **Chen G**, Zeng D, Kosorok MR: Rejoinder "Personalized dose finding using outcome weighted learning". _Journal of the American Statistical Association, Theory and Methods_, 2016, 111(516): 1543--1547.
  
 5. Tang ZZ\*^, **Chen G**\*^, Alekseyenko A: Hypothesis Testing for Microbiome Profile. _Bionformatics_, 2016, 32(17): 2618-2625.
+
 6. Zhu R\*, Zhao YQ\*, **Chen G**\*, Ma S, Zhao H: Greedy Tree Learning of Optimal Personalized Treatment Rules. _Biometrics_, 2017, 73(2), 391--400.
 
 7. Tang ZZ, **Chen G**, Alekseyenko A, Li H: A general framework for association analysis of microbial community on a taxonomic tree. _Bionformatics_, 2017, 33(9): 1278--1285
