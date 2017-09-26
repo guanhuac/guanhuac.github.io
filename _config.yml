@@ -5,3 +5,9 @@ author :
 
 theme: jekyll-theme-cayman
 permalink : /:categories/:title 
+
+# use redcarpet for syntax highlighting through github jekyll
+markdown : kramdown
+
+# activate syntax highlighting 
+highlighter : rouge
