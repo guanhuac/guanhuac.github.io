@@ -14,7 +14,8 @@ Develop statistical learning methods for clinical and biomedical research, with 
 3. **Chen G**, Liu Y, Shen D, Kosorok MR: Composite large margin classifiers with latent subclasses. _Statistical Analysis and Data Mining_, 2016, 9(2): 75-88.
 
 4. **Chen G**, Zeng D, Kosorok MR: Personalized dose finding using outcome weighted learning (with discussion). _Journal of the American Statistical Association, Theory and Methods_, 2016, 111(516): 1509--1521.
- - **Chen G**, Zeng D, Kosorok MR: Rejoinder "Personalized dose finding using outcome weighted learning". _Journal of the American Statistical Association, Theory and Methods_, 2016, 111(516): 1543--1547.
+
+- **Chen G**, Zeng D, Kosorok MR: Rejoinder "Personalized dose finding using outcome weighted learning". _Journal of the American Statistical Association, Theory and Methods_, 2016, 111(516): 1543--1547.
  
 5. Tang ZZ\*^, **Chen G**\*^, Alekseyenko A: Hypothesis Testing for Microbiome Profile. _Bionformatics_, 2016, 32(17): 2618-2625.
 
