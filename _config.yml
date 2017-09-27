@@ -9,8 +9,9 @@ permalink : /:categories/:title
 # use redcarpet for syntax highlighting through github jekyll
 markdown : kramdown
 
-#  kramdown:
-#  input:   GFM
+kramdown:
+autoid: true
+input:   GFM
   
 
 # activate syntax highlighting 
