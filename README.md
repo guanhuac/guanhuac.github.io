@@ -15,13 +15,13 @@ Develop statistical learning methods for clinical and biomedical research, with 
 
 4. **Chen G**, Zeng D, Kosorok MR: Personalized dose finding using outcome weighted learning (with discussion). _Journal of the American Statistical Association, Theory and Methods_, 2016, 111(516): 1509--1521.
 
-5. **Chen G**, Zeng D, Kosorok MR: Rejoinder "Personalized dose finding using outcome weighted learning". _Journal of the American Statistical Association, Theory and Methods_, 2016, 111(516): 1543--1547.
+- **Chen G**, Zeng D, Kosorok MR: Rejoinder "Personalized dose finding using outcome weighted learning". _Journal of the American Statistical Association, Theory and Methods_, 2016, 111(516): 1543--1547.
  
-6. Tang ZZ\*^, **Chen G**\*^, Alekseyenko A: Hypothesis Testing for Microbiome Profile. _Bionformatics_, 2016, 32(17): 2618-2625.
+5. Tang ZZ\*^, **Chen G**\*^, Alekseyenko A: Hypothesis Testing for Microbiome Profile. _Bionformatics_, 2016, 32(17): 2618-2625.
 
-7. Zhu R\*, Zhao YQ\*, **Chen G**\*, Ma S, Zhao H: Greedy Tree Learning of Optimal Personalized Treatment Rules. _Biometrics_, 2017, 73(2), 391--400.
+6. Zhu R\*, Zhao YQ\*, **Chen G**\*, Ma S, Zhao H: Greedy Tree Learning of Optimal Personalized Treatment Rules. _Biometrics_, 2017, 73(2), 391--400.
 
-8. Tang ZZ, **Chen G**, Alekseyenko A, Li H: A general framework for association analysis of microbial community on a taxonomic tree. _Bionformatics_, 2017, 33(9): 1278--1285
+7. Tang ZZ, **Chen G**, Alekseyenko A, Li H: A general framework for association analysis of microbial community on a taxonomic tree. _Bionformatics_, 2017, 33(9): 1278--1285
 
 #### Collaborative
 1. Bloom RJ, Kahler AK, Collins AL, **Chen G**, Cannon TD, Hultman C, Sullivan PF: Comprehensive analysis of copy number variation in monozygotic twins discordant for bipolar disorder or schizophrenia. _Schizophrenia Research_, 2013, 146(1-3):289-290.
