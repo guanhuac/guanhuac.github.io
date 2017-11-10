@@ -1,5 +1,5 @@
 ### Short Bio
-I am an Assistant Professor of Biostatistics and Medical Informatics at University of Wisconsin-Madison (email: gchen@biostat.wisc.edu; phone: 608-262-0765). I got my PhD from University of North Carolina at Chapel Hill in 2014 and before joining UW, I was an Assistant Professor of Biostatistics at Vanderbilt University.
+I am an Assistant Professor of Biostatistics and Medical Informatics at University of Wisconsin-Madison (email: gchen 'at' biostat.wisc.edu; phone: 608-262-0765). I got my PhD from University of North Carolina at Chapel Hill in 2014 and before joining UW, I was an Assistant Professor of Biostatistics at Vanderbilt University.
 
 ### Research Interest
 Develop statistical learning methods for clinical and biomedical research, with a particular emphasis on the discovery of complex patterns in heterogeneous, high-dimensional-omics data (genome, microbiome) and electronic health record data to advance precision medicine.
@@ -51,9 +51,9 @@ Develop statistical learning methods for clinical and biomedical research, with 
 13. Parr SK, Matheny ME, Abdel-Kader K, Greevy RA, Bian A, Fly J, **Chen G**, Speroff T, Hung AM, Abdel-Kader K, Ikizler TA, Siew ED: Acute kidney injury is a risk factor for subsequent proteinuria. accepted in _Kidney International_, 2017.
 
 #### Technical report
-1. Liu Q, **Chen G**, Kosorok MR, Bair E: Biclustering Via Sparse Clustering. arxiv:1407.3010
+1. Liu Q, Helgeson E, **Chen G**, Kosorok MR, Bair E: Biclustering Via Sparse Clustering. arxiv:1407.3010
 
-2. Zhu R, Zhao YQ, **Chen G**: Stabilized Dynamic Treatment Regime.
+2. Zhao YQ, Zhu R, **Chen G**, Zheng Y: Stabilized Dynamic Treatment Regime.
 
 3. Tang ZZ, **Chen G**: A general framework for association analysis of microbial community using zero-inflated generalized Dirichlet-Multinomial.
 
