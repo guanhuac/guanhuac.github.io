@@ -19,7 +19,7 @@ Develop statistical learning methods for clinical and biomedical research, with 
  
 6. Tang ZZ\*^, **Chen G**\*^, Alekseyenko A: Hypothesis Testing for Microbiome Profile. _Bionformatics_, 2016, 32(17): 2618-2625.
 
-7. Zhu R\*, Zhao YQ\*, **Chen G**\*, Ma S, Zhao H: Greedy Tree Learning of Optimal Personalized Treatment Rules. _Biometrics_, 2017, 73(2), 391--400.
+7. Zhu R, Zhao YQ, **Chen G**, Ma S, Zhao H: Greedy Tree Learning of Optimal Personalized Treatment Rules. _Biometrics_, 2017, 73(2), 391--400.
 
 8. Tang ZZ, **Chen G**, Alekseyenko A, Li H: A general framework for association analysis of microbial community on a taxonomic tree. _Bionformatics_, 2017, 33(9): 1278--1285
 
@@ -53,7 +53,7 @@ Develop statistical learning methods for clinical and biomedical research, with 
 #### Technical report
 1. Liu Q, Helgeson E, **Chen G**, Kosorok MR, Bair E: Biclustering Via Sparse Clustering. arxiv:1407.3010
 
-2. Zhao YQ, Zhu R, **Chen G**, Zheng Y: Stabilized Dynamic Treatment Regime.
+2. Zhao YQ, Zhu R, **Chen G**, Zheng Y: Constructing Stabilized Dynamic Treatment Regimes.
 
 3. Tang ZZ, **Chen G**: A general framework for association analysis of microbial community using zero-inflated generalized Dirichlet-Multinomial.
 
