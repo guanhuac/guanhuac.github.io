@@ -23,6 +23,12 @@ Develop statistical learning methods for clinical and biomedical research, with 
 
 8. Tang ZZ, **Chen G**, Alekseyenko A, Li H: A general framework for association analysis of microbial community on a taxonomic tree. _Bionformatics_, 2017, 33(9): 1278--1285
 
+9. Davis SE, Lasko TA, **Chen G**, Siew ED, Matheny ME: Temporal calibration of regression and machine learning models for acute kidney injury. _Journal of the American Medical Informatics Association_, 2017, 24(6): 1052--1061.
+
+10. Davis SE, Lasko TA, **Chen G**, Matheny ME: Calibration Drift Among Regression and Machine Learning Models for Hospital Mortality. accepted in _AMIA Annual Symposium Proceedings_, 2017.
+
+11. Tang ZZ, **Chen G**: A general framework for association analysis of microbial community using zero-inflated generalized Dirichlet-Multinomial. accepted in _Biostatistics_, 2018.
+
 #### Collaborative
 1. Bloom RJ, Kahler AK, Collins AL, **Chen G**, Cannon TD, Hultman C, Sullivan PF: Comprehensive analysis of copy number variation in monozygotic twins discordant for bipolar disorder or schizophrenia. _Schizophrenia Research_, 2013, 146(1-3):289-290.
 
@@ -44,17 +50,17 @@ Develop statistical learning methods for clinical and biomedical research, with 
 
 10. Brooks JP, Buck G, **Chen G**, Diao L, Edwards DJ, Fettweis JM, Huzurbazar S, Rakintin A, Satten GA, Smirnova E,Waks Z, Wright ML, Yanover C, Zhou YH: Changes in vaginal community state types reflect major shifts in the microbiome. _Microbial Ecology in Health and Disease_, 2017, 28(1): 1303265.
 
-11. Davis SE, Lasko TA, **Chen G**, Siew ED, Matheny ME: Temporal calibration of regression and machine learning models for acute kidney injury. accepted in _Journal of the American Medical Informatics Association_, 2017.
+11. Parr SK, Matheny ME, Abdel-Kader K, Greevy RA, Bian A, Fly J, **Chen G**, Speroff T, Hung AM, Abdel-Kader K, Ikizler TA, Siew ED: Acute kidney injury is a risk factor for subsequent proteinuria. _Kidney International_, 2018, 93(2), 460--469.
 
-12. Davis SE, Lasko TA, **Chen G**, Matheny ME: Calibration Drift Among Regression and Machine Learning Models for Hospital Mortality. accepted in _AMIA Annual Symposium Proceedings_, 2017.
+12. Shilts J, **Chen G**, Hughey JJ: Evidence for widespread dysregulation of circadian clock progression in human cancer. _PeerJ_, 2018, 6, e4327.
 
-13. Parr SK, Matheny ME, Abdel-Kader K, Greevy RA, Bian A, Fly J, **Chen G**, Speroff T, Hung AM, Abdel-Kader K, Ikizler TA, Siew ED: Acute kidney injury is a risk factor for subsequent proteinuria. accepted in _Kidney International_, 2017.
+13. Bagnato F, Hametner S, Boyd E, Endmayr V, Shi Y, Ikonomidou V, **Chen G**, Pawate S, Lassmann H, Smith S, Welch EB: Untangling the R2 contrast in multiple sclerosis: a combined mri-histology study at seven tesla. _PLOS One_, 2018, 13(3): e0193839.
 
 #### Technical report
 1. Liu Q, Helgeson E, **Chen G**, Kosorok MR, Bair E: Biclustering Via Sparse Clustering. arxiv:1407.3010
 
 2. Zhao YQ, Zhu R, **Chen G**, Zheng Y: Constructing Stabilized Dynamic Treatment Regimes.
 
-3. Tang ZZ, **Chen G**: A general framework for association analysis of microbial community using zero-inflated generalized Dirichlet-Multinomial.
+3. Tang ZZ, **Chen G**: Distribution free association test for analyzing clustered microbiome data.
 
 4. Giganti M, Shaw PA, **Chen G**, Bebawy S, Turner M, Sterling TR, Shepherd BE: Accounting for multivariable measurement error in survival data from electronic health records using discrete failure time models and multiple imputation.
