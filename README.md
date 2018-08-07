@@ -59,7 +59,7 @@ Develop statistical learning methods for clinical and biomedical research, with 
 #### Technical report
 1. Helgeson E, Liu Q, **Chen G**, Kosorok MR, Bair E: Biclustering Via Sparse Clustering. arxiv:1407.3010
 
-2. Zhao YQ, Zhu R, **Chen G**, Zheng Y: Constructing Stabilized Dynamic Treatment Regimes.
+2. Zhao YQ, Zhu R, **Chen G**, Zheng Y: Constructing Stabilized Dynamic Treatment Regimes. arxiv:1808.01332
 
 3. Tang ZZ, **Chen G**: Distribution free association test for analyzing clustered microbiome data.
 
