@@ -57,9 +57,9 @@ Develop statistical learning methods for clinical and biomedical research, with 
 13. Bagnato F, Hametner S, Boyd E, Endmayr V, Shi Y, Ikonomidou V, **Chen G**, Pawate S, Lassmann H, Smith S, Welch EB: Untangling the R2 contrast in multiple sclerosis: a combined mri-histology study at seven tesla. _PLOS One_, 2018, 13(3): e0193839.
 
 #### Technical report
-1. Helgeson E, Liu Q, **Chen G**, Kosorok MR, Bair E: Biclustering Via Sparse Clustering. arxiv:1407.3010
+1. Helgeson E, Liu Q, **Chen G**, Kosorok MR, Bair E: Biclustering Via Sparse Clustering. arxiv.org/abs/1407.3010
 
-2. Zhao YQ, Zhu R, **Chen G**, Zheng Y: Constructing Stabilized Dynamic Treatment Regimes. arxiv:1808.01332
+2. Zhao YQ, Zhu R, **Chen G**, Zheng Y: Constructing Stabilized Dynamic Treatment Regimes. arxiv.org/abs/1808.01332
 
 3. Tang ZZ, **Chen G**: Distribution free association test for analyzing clustered microbiome data.
 
