@@ -29,6 +29,14 @@ Develop statistical learning methods for clinical and biomedical research, with 
 
 11. Tang ZZ, **Chen G**: A general framework for association analysis of microbial community using zero-inflated generalized Dirichlet-Multinomial. accepted in _Biostatistics_, 2018.
 
+12. Kripalani S, **Chen G**, Ciampa P, Theobald C, Cao A, Hatch M, Dittus RS, Speroff T: A Transition Care Coordinator Model Reduces Hospital Readmissions and Costs. _Contemporary Clinical Trials_, 2019, 81: 55--61
+
+13. Tang ZZ\*,  **Chen G**\*, Huang S, Smith HM, Scholz M, Reilly PM, Ferguson JF: Multi-omic analysis of the microbiome and metabolome in healthy subjects reveals microbiome-dependent relationships between diet and metabolites. _Frontier in Genetics_, 2019, 10:454.
+
+14. Helgeson E, Liu Q, **Chen G**, Kosorok MR, Bair E: Biclustering Via Sparse Clustering. accepted in _Biometrics_, 2019.
+
+15. Tang ZZ, **Chen G**: Robust and powerful differential composition tests for clustered microbiome data. 2019, accepted in _Statistics in Biosciences_, 2019. 
+
 #### Collaborative
 1. Bloom RJ, Kahler AK, Collins AL, **Chen G**, Cannon TD, Hultman C, Sullivan PF: Comprehensive analysis of copy number variation in monozygotic twins discordant for bipolar disorder or schizophrenia. _Schizophrenia Research_, 2013, 146(1-3):289-290.
 
@@ -56,15 +64,23 @@ Develop statistical learning methods for clinical and biomedical research, with 
 
 13. Bagnato F, Hametner S, Boyd E, Endmayr V, Shi Y, Ikonomidou V, **Chen G**, Pawate S, Lassmann H, Smith S, Welch EB: Untangling the R2 contrast in multiple sclerosis: a combined mri-histology study at seven tesla. _PLOS One_, 2018, 13(3): e0193839.
 
-14. Mar PL, **Chen G**, Gandhi G, Tang ZZ, Leiserowitz A, Tripuraneni A, Kreps E, Botting L,Lakkireddy D, Granato JE, Gopinathannair R: Cost-effectiveness Analysis of Magnetic Resonance Imaging-Conditional Pacemaker Implantation: Insights from a Multicenter Study and Implications in the Current Era. accepted in _Heart Rhythm_, 2018.
+14. Mar PL, **Chen G**, Gandhi G, Tang ZZ, Leiserowitz A, Tripuraneni A, Kreps E, Botting L,Lakkireddy D, Granato JE, Gopinathannair R: Cost-effectiveness Analysis of Magnetic Resonance Imaging-Conditional Pacemaker Implantation: Insights from a Multicenter Study and Implications in the Current Era. _Heart Rhythm_, 2018, 15(11), 1690--1697.
+
+15. Gopinathannair R, Mar PL, Gandhi G, Leiserowitz A, Tripuraneni A, Lakkireddy D, **Chen G**, Kreps E, Botting L, Copeland S, Firsich N, Kioussopoulos K, Granato JE: Incidence and Predictors of MRI Scan Utilization in MRI-Conditional Pacemaker Recipients: A Multicenter Experience. _Pacing and Clinical Electrophysiology_, 2018, 41(11): 1519--1525.
+
+16. Swedlund M, Norton D, Birstler J, **Chen G**, Cruz L, Hanrahan L: Effectiveness of a Best Practice Advisory at Improving Hypertension Control. _American Journal of Hypertension_, 2019, 32(1), 70--76.
+
+17. Dill-McFarland KA, Tang ZZ, Kreznar JH, Kerby RL, **Chen G**, Palloni A, Sorenson T, Rey FE, Herd P: Close social relationships correlate with human gut microbiome composition. _Scientific Reports_, 2019, 9(1), 703.
+
+18. Ferguson JF, Aden LA, Barbaro NR, Van Beusecum JP, Xiao l, Simons AJ, Warden C, Pasic L, Himmel LE, Washington MK, Revetta FL, Zhao S, Kumaresan S, Scholz MB, Tang ZZ, **Chen G**, Reilly MP, Kirabo A: High dietary salt-induced dendritic cell activation underlies microbial dysbiosis-associated hypertension. _JCI Insight_, 2019, 4(13): e126241.
+
+19. Dennis J, Sealock J, Levinson RT, Farber-Eger E, Franco J, Fong  S, Straub P, Hucks D, Linton  MF, Song  WL, Ruderfer D, Abdellaoui  A, Palmer A,  Sanchez-Roige S, Boomsma D, Cox NJ, **Chen G**, Mosley JD, Wells Q, Davis LK: Genetic risk for major depressive disorder and loneliness in gender-specific associations with coronary artery disease. accepted in _Translational Psychiatry_, 2019. https://www.biorxiv.org/content/early/2019/01/05/512541 
+
+20. Koola JD, {\bf Chen G}, Marlin B, Fabbri D, Ho SB, Patterson O, Matheny ME: A Clinical Risk Prediction Model to Identify Patients with Hepatorenal Syndrome at Hospital Admission. accepted in _International Journal of Clinical Practice_, 2019.
 
 #### Technical report
-1. Helgeson E, Liu Q, **Chen G**, Kosorok MR, Bair E: Biclustering Via Sparse Clustering. arxiv.org/abs/1407.3010
+1. Zhao YQ, Zhu R, **Chen G**, Zheng Y: Constructing Stabilized Dynamic Treatment Regimes. under revision in _statisitcs in medicine_ arxiv.org/abs/1808.01332
 
-2. Zhao YQ, Zhu R, **Chen G**, Zheng Y: Constructing Stabilized Dynamic Treatment Regimes. arxiv.org/abs/1808.01332
+2. Giganti M, Shaw PA, **Chen G**, Bebawy S, Turner M, Sterling TR, Shepherd BE: Accounting for dependent errors in predictors and time-to-event outcomes using electronic health records, validation samples, and multiple imputation. under revision in _Annals of statistics_
 
-3. Tang ZZ, **Chen G**: Distribution free association test for analyzing clustered microbiome data.
-
-4. Giganti M, Shaw PA, **Chen G**, Bebawy S, Turner M, Sterling TR, Shepherd BE: Accounting for multivariable measurement error in survival data from electronic health records using discrete failure time models and multiple imputation.
-
-5. **Chen G**, Zou M, Tang ZZ, Sun Q: Dimensional Reduction for clustering microbiome data.
+3. **Chen G**, Zou M, Tang ZZ, Sun Q: Dimensional Reduction for clustering microbiome data.
