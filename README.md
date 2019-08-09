@@ -76,7 +76,7 @@ Develop statistical learning methods for clinical and biomedical research, with 
 
 19. Dennis J, Sealock J, Levinson RT, Farber-Eger E, Franco J, Fong  S, Straub P, Hucks D, Linton  MF, Song  WL, Ruderfer D, Abdellaoui  A, Palmer A,  Sanchez-Roige S, Boomsma D, Cox NJ, **Chen G**, Mosley JD, Wells Q, Davis LK: Genetic risk for major depressive disorder and loneliness in gender-specific associations with coronary artery disease. accepted in _Translational Psychiatry_, 2019. https://www.biorxiv.org/content/early/2019/01/05/512541 
 
-20. Koola JD, {\bf Chen G}, Marlin B, Fabbri D, Ho SB, Patterson O, Matheny ME: A Clinical Risk Prediction Model to Identify Patients with Hepatorenal Syndrome at Hospital Admission. accepted in _International Journal of Clinical Practice_, 2019.
+20. Koola JD, **Chen G**, Marlin B, Fabbri D, Ho SB, Patterson O, Matheny ME: A Clinical Risk Prediction Model to Identify Patients with Hepatorenal Syndrome at Hospital Admission. accepted in _International Journal of Clinical Practice_, 2019.
 
 #### Technical report
 1. Zhao YQ, Zhu R, **Chen G**, Zheng Y: Constructing Stabilized Dynamic Treatment Regimes. under revision in _statisitcs in medicine_ arxiv.org/abs/1808.01332
