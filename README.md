@@ -79,8 +79,8 @@ Develop statistical learning methods for clinical and biomedical research, with 
 20. Koola JD, **Chen G**, Marlin B, Fabbri D, Ho SB, Patterson O, Matheny ME: A Clinical Risk Prediction Model to Identify Patients with Hepatorenal Syndrome at Hospital Admission. accepted in _International Journal of Clinical Practice_, 2019.
 
 #### Technical report
-1. Zhao YQ, Zhu R, **Chen G**, Zheng Y: Constructing Stabilized Dynamic Treatment Regimes. under revision in _statisitcs in medicine_ arxiv.org/abs/1808.01332
+1. Zhao YQ, Zhu R, **Chen G**, Zheng Y: Constructing Stabilized Dynamic Treatment Regimes. under revision in _Statisitcs in Medicine_ arxiv.org/abs/1808.01332
 
-2. Giganti M, Shaw PA, **Chen G**, Bebawy S, Turner M, Sterling TR, Shepherd BE: Accounting for dependent errors in predictors and time-to-event outcomes using electronic health records, validation samples, and multiple imputation. under revision in _Annals of statistics_
+2. Giganti M, Shaw PA, **Chen G**, Bebawy S, Turner M, Sterling TR, Shepherd BE: Accounting for dependent errors in predictors and time-to-event outcomes using electronic health records, validation samples, and multiple imputation. under revision in _Annals of Applied Statistics_
 
 3. **Chen G**, Zou M, Tang ZZ, Sun Q: Dimensional Reduction for clustering microbiome data.
