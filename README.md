@@ -33,9 +33,17 @@ Develop statistical learning methods for clinical and biomedical research, with 
 
 13. Tang ZZ\*,  **Chen G**\*, Huang S, Smith HM, Scholz M, Reilly PM, Ferguson JF: Multi-omic analysis of the microbiome and metabolome in healthy subjects reveals microbiome-dependent relationships between diet and metabolites. _Frontier in Genetics_, 2019, 10:454.
 
-14. Helgeson E, Liu Q, **Chen G**, Kosorok MR, Bair E: Biclustering Via Sparse Clustering. accepted in _Biometrics_, 2019.
+14. Helgeson E, Liu Q, **Chen G**, Kosorok MR, Bair E: Biclustering Via Sparse Clustering. _Biometrics_, 2020, 76(1): 348--358.
 
-15. Tang ZZ, **Chen G**: Robust and powerful differential composition tests for clustered microbiome data. 2019, accepted in _Statistics in Biosciences_, 2019. 
+15. Tang ZZ, **Chen G**: Robust and powerful differential composition tests for clustered microbiome data. accepted in _Statistics in Biosciences_, 2019. 
+
+16. Zhao YQ, Zhu R, **Chen G**, Zheng Y: Constructing Stabilized Dynamic Treatment Regimes. _Statisitcs in Medicine_, 2020, 39(9): 1250--1263. 
+
+17. Giganti M, Shaw PA, **Chen G**, Bebawy S, Turner M, Sterling TR, Shepherd BE: Accounting for dependent errors in predictors and time-to-event outcomes using electronic health records, validation samples, and multiple imputation. _Annals of Applied Statistics_, 2020, 14 (2), 1045--1061.
+
+18. Tang ZZ, Sliwoski GR, **Chen G**, Jin B, Bush WS, Li B, Carpra TA: Scan Tests Guided by Protein Structures Discover Rare-Variant Associations and Signal Regions. accepted in _Genome Biology_, 2020.
+
+19. Huling JD, Smith MA, **Chen G**: A two-part framework for estimating individualized treatment rules from semi-continuous outcomes. accepted in _Journal of the American Statistical Association_, 2020.
 
 #### Collaborative
 1. Bloom RJ, Kahler AK, Collins AL, **Chen G**, Cannon TD, Hultman C, Sullivan PF: Comprehensive analysis of copy number variation in monozygotic twins discordant for bipolar disorder or schizophrenia. _Schizophrenia Research_, 2013, 146(1-3):289-290.
@@ -79,8 +87,9 @@ Develop statistical learning methods for clinical and biomedical research, with 
 20. Koola JD, **Chen G**, Marlin B, Fabbri D, Ho SB, Patterson O, Matheny ME: A Clinical Risk Prediction Model to Identify Patients with Hepatorenal Syndrome at Hospital Admission. accepted in _International Journal of Clinical Practice_, 2019.
 
 #### Technical report
-1. Zhao YQ, Zhu R, **Chen G**, Zheng Y: Constructing Stabilized Dynamic Treatment Regimes. under revision in _Statisitcs in Medicine_ arxiv.org/abs/1808.01332
 
-2. Giganti M, Shaw PA, **Chen G**, Bebawy S, Turner M, Sterling TR, Shepherd BE: Accounting for dependent errors in predictors and time-to-event outcomes using electronic health records, validation samples, and multiple imputation. under revision in _Annals of Applied Statistics_
+1. **Chen G**, Wang X, Tang ZZ, Sun Q: Dimensional Reduction for clustering microbiome data.
 
-3. **Chen G**, Zou M, Tang ZZ, Sun Q: Dimensional Reduction for clustering microbiome data.
+2. Chen R, **Chen G**, Yu M: A generalizability score for aggregate causal effects.
+
+3. Dennis J, Sealock JM, Straub P, Hucks D, Actkins KE, Faucon A, Goleva S, Nirachou M, Singh K, Morley T, Ruderfer D, Mosley JD, **Chen G**, Davis LK: Lab-wide association scan of polygenic scores identifies biomarkers of complex disease.
